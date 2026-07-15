@@ -1,0 +1,9 @@
+.exclude *.pyc
+.exclude __pycache__
+.exclude venv
+.exclude .venv
+.exclude *.egg-info
+.exclude dist
+.exclude build
+.exclude .pytest_cache
+.exclude .ruff_cache
